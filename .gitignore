@@ -4,3 +4,4 @@ venv
 .mypy_cache
 .ropeproject
 App+Design.png
+__pycache__/
